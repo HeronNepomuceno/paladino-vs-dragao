@@ -10,6 +10,8 @@ Projeto desenvolvido fruto de um desafio feito pelo professor do curso de vuejs.
 
 - Por fim, o botão "Se Render" é autoexplicativo.
 
+Você pode acessar meu web game através do link: https://paladin-vs-dragon.netlify.app/
+
 ## Instalação
 
 ### Para clonar o repositório, execute:
